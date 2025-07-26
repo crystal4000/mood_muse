@@ -28,13 +28,14 @@
     "husky": "^9.1.7",
     "lint-staged": "^16.1.2",
     "tailwindcss": "^4",
+    "tsc-files": "^1.1.4",
     "typescript": "^5",
     "typescript-eslint": "^8.38.0"
   },
   "lint-staged": {
-    "*.{js,jsx,ts,tsx}": [
+    "**/*.{js,jsx,ts,tsx}": [
       "eslint --fix",
-      "tsc --noEmit --skipLibCheck"
+      "tsc-files --noEmit"
     ]
   }
 }
