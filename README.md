@@ -4,7 +4,9 @@
 
 Transform your emotions into personalized Spotify playlists and dreamy AI-generated art. MoodMuse creates beautiful, shareable moodboards that capture the depth of human feelings through music and visual storytelling.
 
-![MoodMuse Demo](https://via.placeholder.com/800x400/6366f1/ffffff?text=MoodMuse+Demo)
+<img width="1512" height="858" alt="Screenshot 2025-07-26 at 3 28 22 PM" src="https://github.com/user-attachments/assets/194be193-3aaa-4786-b891-54eb8f338401" />
+<img width="1508" height="857" alt="Screenshot 2025-07-26 at 3 28 42 PM" src="https://github.com/user-attachments/assets/eec742d6-8631-41b9-a2ec-b583558c9987" />
+<img width="1512" height="856" alt="Screenshot 2025-07-26 at 3 28 51 PM" src="https://github.com/user-attachments/assets/25c73095-baa9-4926-bdaf-448c6422f152" />
 
 ## ✨ Features
 
